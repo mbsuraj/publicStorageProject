@@ -60,4 +60,4 @@ The project includes a `src` directory with essential support code:
 
 All the necessary Python libraries required for the assignment are listed in the `requirements.txt` file. You can use this file to ensure you have the correct versions of the libraries installed in your Python environment.
 
-By following the outlined project flow and utilizing the provided support code and data, we aim to assist Public Storage in making data-driven decisions regarding their rental storage facilities.
+By following the outlined project flow and utilizing the provided support code and data, I can aim to assist Public Storage in making data-driven decisions regarding their rental storage facilities.

@@ -4,8 +4,8 @@ import pandas as pd
 import time
 
 # Define the BLS API key (you need to obtain your own API key)
-api_key = "1b73b60dc8be4ec2ad240c873f8d7e62"
-CENSUS_API_KEY = "bf4d5f56be5746c3e4a1f93df1aa2bd6549c27d1"
+api_key = "<Your Key>"
+CENSUS_API_KEY = "<Your Key>"
 
 def get_unemployment_rate(start_year, end_year):
     # Define the BLS API endpoint and series ID for the unemployment rate
