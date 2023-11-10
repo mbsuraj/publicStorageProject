@@ -17,7 +17,7 @@ The assignment consists of the following key components:
 ## How to use:
 1. Both **parametric_forecast_rentable_sqft.ipynb** and **nonparametric_forecast_rentable_sqft.ipynb** can be run for different states. You just need to change one variable called **state**. I've tested it with CA, TX, AZ, FL; you can also put United States as state to see recommendations at country level
 
-## How to use:
+## Assumptions:
 1. Price of the business is assumed to be same at all times
 2. The occupancy of all the stores is assumed to be same at 90% at all times.
 3. No discounts.
